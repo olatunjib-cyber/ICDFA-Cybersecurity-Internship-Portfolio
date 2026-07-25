@@ -1,1 +1,5 @@
-| Lab 1 | Investigate Kali Linux | Explore the Kali Linux environment and essential Linux command-line operations. | [📁 Open](./01-investigate-kali-linux/) | ✅ Completed |
+# Lab 1 – Investigate Kali Linux
+
+This folder contains the documentation, report, screenshots, and supporting files for Lab 1.
+
+> Status: ✅ Completed
