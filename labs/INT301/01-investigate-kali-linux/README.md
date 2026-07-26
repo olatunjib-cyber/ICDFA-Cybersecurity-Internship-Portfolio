@@ -81,7 +81,8 @@ ip a
 
 ### 4. Kali Linux Browser
 
-![Kali Linux Browser](images/04-kali-terminal-%20Browser.png)
+![Kali Linux Browser](images/04-kali-browser.png)
+
 
 ---
 
@@ -93,7 +94,7 @@ ip a
 
 ### 6. Navigate to Home Directory
 
-![Navigate Home Directory](images/06-navigate-to%20home-directory.png)
+![Navigate Home Directory](images/06-navigate-to-home-directory.png)
 
 ---
 
