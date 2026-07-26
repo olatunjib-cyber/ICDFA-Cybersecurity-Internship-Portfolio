@@ -6,8 +6,8 @@ Select a course below to explore its practical labs, documentation, and supporti
 
 | Course Code | Course Name | Labs | Status |
 |:-----------:|-------------|:----:|:------:|
-| **INT301** | [Operating Systems Fundamentals](./labs/INT301/) | 3 | 🔄 |
-| **INT302** | Kali Linux Tools & System Security | 4 | ⏳ |
+| **INT301** | [Operating Systems Fundamentals](./labs/INT301/) | 3 | 🟩 |
+| **INT302** | Kali Linux Tools & System Security | 4 | 🔄 |
 | **INT303** | Networking Fundamentals | 2 | ⏳ |
 | **INT304** | Network Security & Protocols | 2 | ⏳ |
 | **INT305** | Secure User Access Management in Linux | 2 | ⏳ |
